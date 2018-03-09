@@ -1,0 +1,31 @@
+html {
+  background-color: #333333;
+  width: calc(170px * 2); /* Change this number to equal the number of columns displaying */
+}
+
+.main-content {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.section {
+  flex-grow: 1;
+  width: 0;
+  margin: 0 5px;
+}
+
+.centered-text {
+  display: block;
+  color: white;
+  width: 100%;
+  text-align: center;
+}
+
+.button {
+  background-color: darkolivegreen;
+  margin: 15px 0;
+  padding: 2px 0;
+  border-radius: 5px;
+}
