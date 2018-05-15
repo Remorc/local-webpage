@@ -1,18 +1,19 @@
 html {
   background-color: #333333;
-  width: calc(170px * 2); /* Change this number to equal the number of columns displaying */
+  width: 100%;
 }
 
 .main-content {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
-  justify-content: space-between;
+  justify-content: flex-start;
 }
 
 .section {
   flex-grow: 1;
   width: 0;
+  max-width: 170px;
   margin: 0 5px;
 }
 

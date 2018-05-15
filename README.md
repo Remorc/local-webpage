@@ -2,9 +2,9 @@
 
 In order to set this up, simply clone this repository into a local directory and point your browser of choice to the `index.html`.
 
-## Adding a column
+## Affecting Data
 
-If you want to add a column, but keep the same column sizes that already exist, you will want to adjust the multiplier on the width of html. See `index.css`.
+In order to customize the data on your local page, you will need to create (or edit) a json file. A `sample.json` has been provided for you. If you create a different file, you will need to update the script import in `index.html`.
 
 ## Chrome
 
