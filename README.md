@@ -4,7 +4,7 @@ In order to set this up, simply clone this repository into a local directory and
 
 ## Affecting Data
 
-In order to customize the data on your local page, you will need to create (or edit) a json file. A `sample.json` has been provided for you. If you create a different file, you will need to update the script import in `index.html`.
+In order to customize the data on your local page, you will need to create (or edit) a json file. A `sample.json` has been provided for you in the `data` directory. If you create a different file, you will need to update the script import in `index.html`.
 
 ## Chrome
 
