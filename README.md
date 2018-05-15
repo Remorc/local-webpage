@@ -8,4 +8,4 @@ In order to customize the data on your local page, you will need to create (or e
 
 ## Chrome
 
-To make everything play nice in Chrome, I would recommend installing a plugin called `New Tab Replace`. Configure this plugin to point to the `index.html`.
+To make everything play nice in Chrome, I would recommend installing a plugin called `New Tab Redirect`. Configure this plugin to point to the `index.html`.
